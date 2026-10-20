@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "willow",
   "name": "123seminarska Dokumentacija",
   "colors": {
     "primary": "#2563EB",
@@ -70,6 +70,18 @@
     ]
   },
   "footer": {
-    "socials": {}
+    "socials": {
+      "youtube": "https://youtube.com/123seminarska",
+      "hacker-news": "https://news.ycombinator.com/user?id=123seminarska",
+      "website": "https://123seminarska.si/",
+      "medium": "https://medium.com/@123seminarska123"
+    }
+  },
+  "description": "123seminarska nudi pomoč pripisanju diplomskega, seminarskega in magistrskega dela.",
+  "background": {
+    "decoration": "grid"
+  },
+  "appearance": {
+    "default": "light"
   }
 }
