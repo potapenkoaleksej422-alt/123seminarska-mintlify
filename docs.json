@@ -7,14 +7,22 @@
     "light": "#60A5FA",
     "dark": "#1E3A8A"
   },
-  "favicon": "/123seminarska-android-chrome-192x192.png",
+"favicon": "/123seminarska-android-chrome-192x192.png",
+"seo": {
+  "indexing": "all",
+  "metatags": {
+    "robots": "index, follow",
+    "language": "sl",
+    "description": "Strokovna in povsem diskretna pomoč pri diplomskih in magistrskih nalogah na ključ v Sloveniji."
+  }
+},
   "navigation": {
     "pages": [
       {
         "group": "Predstavitev in delovanje",
         "pages": [
           "index",
-          "kako-poteka"
+          "kako-poteka-sodelovanje"
         ]
       },
       {
