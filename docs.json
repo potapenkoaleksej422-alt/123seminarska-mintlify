@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "almond",
   "name": "123seminarska Dokumentacija",
   "colors": {
     "primary": "#2563EB",
@@ -13,6 +13,7 @@
     "metatags": {
       "robots": "index, follow",
       "language": "sl",
+      "canonical": "https://123seminarska.mintlify.site",
       "description": "Strokovna in povsem diskretna pomoč pri diplomskih in magistrskih nalogah na ključ v Sloveniji."
     }
   },
@@ -28,7 +29,9 @@
       {
         "group": "Ponudba",
         "pages": [
-          "storitve"
+          "diplomska-naloga",
+          "magistrska-naloga",
+          "dispozicija"
         ]
       }
     ],
