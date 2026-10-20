@@ -1,0 +1,67 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "123seminarska Dokumentacija",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#60A5FA",
+    "dark": "#1E3A8A"
+  },
+  "favicon": "/123seminarska-android-chrome-192x192.png",
+  "navigation": {
+    "pages": [
+      {
+        "group": "Predstavitev in delovanje",
+        "pages": [
+          "index",
+          "kako-poteka"
+        ]
+      },
+      {
+        "group": "Ponudba",
+        "pages": [
+          "storitve"
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Uradna stran",
+          "href": "https://123seminarska.si",
+          "icon": "globe"
+        },
+        {
+          "anchor": "Povpraševanje",
+          "href": "https://123seminarska.si/povprasevanje/",
+          "icon": "envelope"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/123seminarska-android-chrome-192x192.png",
+    "dark": "/123seminarska-android-chrome-192x192.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Kontakt",
+        "href": "mailto:123.seminarska@gmail.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Oddajte povpraševanje",
+      "href": "https://123seminarska.si/povprasevanje/"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy"
+    ]
+  },
+  "footer": {
+    "socials": {}
+  }
+}
