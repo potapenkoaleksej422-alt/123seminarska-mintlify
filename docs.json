@@ -14,7 +14,7 @@
       "robots": "index, follow",
       "language": "sl",
       "canonical": "https://123seminarska.mintlify.site",
-      "description": "Strokovna in povsem diskretna pomoč pri diplomskih in magistrskih nalogah na ključ v Sloveniji."
+      "description": "Zanesljiva, strokovna in povsem diskretna pomoč pri zaključnih nalogah v slovenskem visokošolskem prostoru."
     }
   },
   "navigation": {
@@ -29,6 +29,7 @@
       {
         "group": "Ponudba",
         "pages": [
+          "storitve",
           "diplomska-naloga",
           "magistrska-naloga",
           "dispozicija"
@@ -74,13 +75,12 @@
   },
   "footer": {
     "socials": {
-      "youtube": "https://youtube.com/123seminarska",
       "hacker-news": "https://news.ycombinator.com/user?id=123seminarska",
       "website": "https://123seminarska.si/",
       "medium": "https://medium.com/@123seminarska123"
     }
   },
-  "description": "123seminarska nudi pomoč pripisanju diplomskega, seminarskega in magistrskega dela.",
+  "description": "Strokovna pomoč pri pripravi diplomskih, magistrskih in raziskovalnih nalog.",
   "background": {
     "decoration": "grid"
   },
