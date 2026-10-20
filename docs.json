@@ -7,15 +7,16 @@
     "light": "#60A5FA",
     "dark": "#1E3A8A"
   },
-"favicon": "/123seminarska-android-chrome-192x192.png",
-"seo": {
-  "indexing": "all",
-  "metatags": {
-    "robots": "index, follow",
-    "language": "sl",
-    "description": "Strokovna in povsem diskretna pomoč pri diplomskih in magistrskih nalogah na ključ v Sloveniji."
-  }
-},
+  "favicon": "/123seminarska-android-chrome-192x192.png",
+  "seo": {
+    "indexing": "all",
+    "metatags": {
+      "robots": "index, follow",
+      "language": "sl",
+      "canonical": "https://123seminarska.si",
+      "description": "Strokovna in povsem diskretna pomoč pri diplomskih in magistrskih nalogah na ključ v Sloveniji."
+    }
+  },
   "navigation": {
     "pages": [
       {
@@ -60,7 +61,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Oddajte povpraševanje",
+      "label": "Oddaj povpraševanje",
       "href": "https://123seminarska.si/povprasevanje/"
     }
   },
